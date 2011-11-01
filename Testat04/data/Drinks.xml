@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drinks>
+	<drink custom="true">
+		<nummer>100</nummer>
+		<name>Galaktika</name>
+		<beschreibung>Für den Galaktika können Sie Ihre Zutaten selbst bestimmen.</beschreibung>
+	</drink>
+	
+	<drink>
+		<nummer>101</nummer>
+		<name>Pangalaktischer Donnergurgler</name>
+		<beschreibung>Der Pangalaktische Donnergurgler ist der angeblich stärkste Drink der Galaxis. Die Wirkung eines Pangalaktischen Donnergurglers ist in etwa so, als ob man mit einem Goldbarren, der in Zitronenscheiben gehüllt ist, das Gehirn aus dem Kopf gedroschen bekommt.</beschreibung>
+		<zutat menge="1" nummer="10" />
+		<zutat menge="1" nummer="20" />
+		<zutat menge="4" nummer="32" />
+		<zutat menge="5" nummer="30" />
+		<zutat menge="1" nummer="31" />
+		<zutat menge="1" nummer="33" />
+		<zutat menge="1" nummer="22" />
+		<zutat menge="1" nummer="34" />
+	</drink>
+	
+	<drink>
+		<nummer>102</nummer>
+		<name>Romulanisches Ale</name>
+		<beschreibung>Dieses Getränk verkauft sich so gut, weil es überall verboten ist. Seine Wirkung ist eigentlich in etwa dieselbe wie die von stinknormalem Rotwein, allerdings glauben alle, die es trinken, etwas unglaublich gefährliches und heldenhaftes zu tun.</beschreibung>
+		<zutat menge="1" nummer="12" />
+	</drink>
+	
+	<drink>
+		<nummer>103</nummer>
+		<name>Omas's Gesundheit</name>
+		<beschreibung>Dieses Getränk schmeckt eigentlich keinem aus dem Universum. Aber alle Oma's empfehlen dieses Getränk Ihren Enkeln, so dass es eine sehr große Verbreitung im Universum genießt und in keinem Restaurant fehlen darf.</beschreibung>
+		<zutat menge="1" nummer="21" />
+		<zutat menge="1" nummer="36" />
+	</drink>
+
+	<drink>
+		<nummer>104</nummer>
+		<name>Syntherol</name>
+		<beschreibung>Eigentlich nur ein futuristischer Name für dreckiges Wasser. In guten Restaurants wird das Wasser aus den Meeren von Santraginus V angeboten.</beschreibung>
+		<zutat menge="1" nummer="20" />
+	</drink>
+</drinks>

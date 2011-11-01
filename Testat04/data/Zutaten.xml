@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zutaten>
+	<zutat art="AlkoholischeZutat">
+		<nummer>10</nummer>
+		<name>Janx-Geist</name>
+		<vol>75</vol>
+		<farbe>violett</farbe>
+		<preis>67.0</preis>
+	</zutat>
+
+	<zutat art="AlkoholischeZutat">
+		<nummer>11</nummer>
+		<name>Schwarzes Loch</name>
+		<vol>45</vol>
+		<farbe>schwarz</farbe>
+		<preis>45.0</preis>
+	</zutat>
+
+	<zutat art="AlkoholischeZutat">
+		<nummer>12</nummer>
+		<name>Rotwein</name>
+		<vol>12</vol>
+		<farbe>rot</farbe>
+		<preis>17.0</preis>
+	</zutat>
+
+	<zutat art="AlkoholischeZutat">
+		<nummer>13</nummer>
+		<name>Froschstern Champagner</name>
+		<vol>17</vol>
+		<farbe>laubgrün</farbe>
+		<preis>450.0</preis>
+	</zutat>
+			
+	<zutat art="NichtAlkoholischeZutat">
+		<nummer>20</nummer>
+		<name>Wasser aus den Meeren von Santraginus V</name>
+		<farbe>durchsichtig</farbe>
+		<preis>5.0</preis>
+	</zutat>
+
+	<zutat art="NichtAlkoholischeZutat">
+		<nummer>21</nummer>
+		<name>Milch der freien galaktischen Hochlandkühe</name>
+		<farbe>weiß</farbe>
+		<preis>12.0</preis>
+	</zutat>
+
+	<zutat art="NichtAlkoholischeZutat">
+		<nummer>22</nummer>
+		<name>Zamphuor</name>
+		<farbe>gelb</farbe>
+		<preis>8.0</preis>
+	</zutat>
+	
+	<zutat art="ErgaenzendeZutat">
+		<nummer>30</nummer>
+		<name>Fallianisches Sumpfgas</name>
+		<herkunft>Fallia</herkunft>
+		<einheit>Liter</einheit>
+		<preis>5.0</preis>
+	</zutat>
+
+	<zutat art="ErgaenzendeZutat">
+		<nummer>31</nummer>
+		<name>Qualaktinischen Hyperminz-Extrakt</name>
+		<herkunft>Qualakt</herkunft>
+		<einheit>Esslöffel</einheit>
+		<preis>3.0</preis>
+	</zutat>
+
+	<zutat art="ErgaenzendeZutat">
+		<nummer>32</nummer>
+		<name>Würfel arkturanischen Mega-Gin</name>
+		<herkunft>Arktura</herkunft>
+		<einheit>Würfel</einheit>
+		<preis>1.0</preis>
+	</zutat>
+
+	<zutat art="ErgaenzendeZutat">
+		<nummer>33</nummer>
+		<name>Zahn eines algolianischen Sonnentigers</name>
+		<herkunft>Algolia</herkunft>
+		<einheit>Zahn</einheit>
+		<preis>87.0</preis>
+	</zutat>
+	
+	<zutat art="ErgaenzendeZutat">
+		<nummer>34</nummer>
+		<name>Olive des Olymp</name>
+		<herkunft>Erde</herkunft>
+		<einheit>Stück</einheit>
+		<preis>9.0</preis>
+	</zutat>
+	
+	<zutat art="ErgaenzendeZutat">
+		<nummer>35</nummer>
+		<name>Great English Breakfast Tea</name>
+		<herkunft>Erde</herkunft>
+		<einheit>Beutel</einheit>
+		<preis>1.0</preis>
+	</zutat>
+
+	<zutat art="ErgaenzendeZutat">
+		<nummer>36</nummer>
+		<name>Honig des blauen Planet</name>
+		<herkunft>Erde</herkunft>
+		<einheit>Esslöffel</einheit>
+		<preis>5.0</preis>
+	</zutat>
+		
+	<zutat art="Eis">
+		<nummer>40</nummer>
+		<name>Zitroneneis</name>
+		<temp>-5.7</temp>
+		<preis>2.0</preis>
+	</zutat>
+	
+	<zutat art="Eis">
+		<nummer>41</nummer>
+		<name>Bananeneis</name>
+		<temp>-2.3</temp>
+		<preis>12.0</preis>
+	</zutat>
+	
+	<zutat art="Eis">
+		<nummer>42</nummer>
+		<name>Nusseis</name>
+		<temp>-10.2</temp>
+		<preis>43.0</preis>
+	</zutat>
+</zutaten>
